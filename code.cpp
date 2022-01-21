@@ -11,7 +11,7 @@ int arr[n];
 for(int i=0;i<n;i++){
     cin>>arr[i];
 }
-sort(arr,arr+n);
+//sort(arr,arr+n);
 int key;
 cin>>key;
 int l=0;
