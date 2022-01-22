@@ -27,7 +27,7 @@ while(l<=h){
         mid=h-l;
     }
     else{
-        mid=h+l;
+        l=mid+l;
     }
 }
 cout<<"not found";
